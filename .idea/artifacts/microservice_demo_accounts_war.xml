@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="microservice-demo-accounts:war">
-    <output-path>$PROJECT_DIR$/microservice-demo-accounts/target</output-path>
-    <root id="archive" name="accounts.war">
-      <element id="artifact" artifact-name="microservice-demo-accounts:war exploded" />
-    </root>
-  </artifact>
-</component>
